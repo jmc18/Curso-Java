@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="modulo-1"/>
+        <group>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/web/WEB-INF/views/listado.jsp</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/src/java/models/dao/ProductoDaoJDBC.java</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/src/java/util/ConexionJdbcDataSource.java</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/src/java/controllers/FormController.java</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/web/WEB-INF/views/form.jsp</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/src/java/util/ConexionJdbc.java</file>
+            <file>file:/C:/Users/Sistemas%20UTSOE/Documents/Curso%20Java/practicas/catalogo-servlet-mvc-db/src/java/controllers/ListadoController.java</file>
+        </group>
+    </open-files>
+</project-private>
